@@ -10,5 +10,9 @@
   },
   "dependencies": {
     "node-http-error": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-google": "^0.10.0"
   }
 }
