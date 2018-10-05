@@ -1,0 +1,14 @@
+{
+  "name": "response-handler",
+  "version": "1.0.0",
+  "description": "Consistent Promise-based json response handling for express",
+  "main": "index.js",
+  "author": "Chris Brousseau <brousseau.chris@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "node-http-error": ">= 1.x"
+  },
+  "dependencies": {
+    "node-http-error": "^2.0.0"
+  }
+}
